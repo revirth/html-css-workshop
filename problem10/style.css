@@ -1,0 +1,29 @@
+.centered {
+  text-align: center;
+}
+
+#title {
+  font-size: xx-large;
+}
+
+#subtitle {
+  font-size: large;
+}
+
+p {
+  margin: 0;
+  background-color: gray;
+}
+
+#content {
+  text-decoration: underline;
+  font-family: sans-serif;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.monospaced {
+  background-color: gray;
+}

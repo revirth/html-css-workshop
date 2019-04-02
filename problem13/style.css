@@ -1,0 +1,25 @@
+body {
+  margin: 30px;
+}
+
+img {
+  height: 150px;
+}
+
+.animals {
+  display: flex;
+  margin-bottom: 70px;
+}
+
+.col {
+  text-align: center;
+  padding: 20px;
+  border-style: dashed;
+  border-width: 3px;
+  margin: 20px;
+}
+
+p {
+  margin: 0;
+  font-size: 20px;
+}
